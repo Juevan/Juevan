@@ -3,7 +3,7 @@
 <p>Esse é o meu perfil pessoal do github voltado para mostrar aquilo que sei fazer, o que estou aprendendo ou estudando e quais técnologias tenho conhecimento.</p>
 <h3>👓 Certificações:</h3>
 <li>Graduado em Engenharia da Computação - Estácio</li>
-<li>Cursando Desenvolvimento Web Full Stack - Senac / Resília</li>
+<li>Técnico em Desenvolvimento Web Full Stack - Senac / Resília</li>
 <br>
 <h3>🔑 Detalhes Gerais:</h3>
 <div align="center">
