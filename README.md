@@ -22,6 +22,7 @@
   <img align="center" alt="AJ-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="AJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AJ-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="AJ-TOTVS(FLUIG)" height="30" width="40" src="https://play-lh.googleusercontent.com/ZjCNLQRiCrcJ3tJ_7HHbyqnqX9qKJBf696KG-omN0tnqXCN9LrcWvFjfDx5cwJuCEro">
 </div>
 <h3>🖥 Redes Sociais:</h3>
 <div> 
