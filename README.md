@@ -1,35 +1,80 @@
-<h1> Olá, sou o Juevan! 👋</h1>
-<h3>📌 Sobre a Página:</h3>
-<p>Esse é o meu perfil pessoal do github voltado para mostrar aquilo que sei fazer, o que estou aprendendo ou estudando e quais técnologias tenho conhecimento.</p>
-<h3>👓 Certificações:</h3>
-<li>Graduado em Engenharia da Computação - Estácio</li>
-<li>Técnico em Desenvolvimento Web Full Stack - Senac / Resília</li>
-<br>
-<h3>🔑 Detalhes Gerais:</h3>
-<div align="center">
-  <a href="https://github.com/Juevan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Juevan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juevan&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<h3>🔭 Ferramentas e Técnologias:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="AJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AJ-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="AJ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="AJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AJ-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="AJ-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="AJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AJ-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="AJ-TOTVS(FLUIG)" height="30" width="40" src="https://play-lh.googleusercontent.com/ZjCNLQRiCrcJ3tJ_7HHbyqnqX9qKJBf696KG-omN0tnqXCN9LrcWvFjfDx5cwJuCEro">
-</div>
-<h3>🖥 Redes Sociais:</h3>
-<div> 
-  <a href="https://www.instagram.com/ajuevan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:antoniojuevan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ajuevan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/Juevan/Juevan/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# Antonio Juevan 👋
+
+**Full Stack Developer** | Full Stack Developer na Raiz Educação | Consultant & TOTVS Fluig Developer na Boa Digital | Aspiring Founder
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" />
+  <img src="https://img.shields.io/badge/Consultant-Boa%20Digital-green" />
+  <img src="https://img.shields.io/badge/Full Stack Developer-Raiz%20Educa%C3%A7%C3%A3o-orange" />
+</p>
+
+<h1 align="center">Antonio Juevan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Juevan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Juevan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Juevan&layout=compact&langs_count=7&theme=dracula">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juevan&layout=compact&langs_count=7&theme=dracula" />
+  </a>
+</p>
+
+---
+
+## 🔭 Sobre Mim
+Sou um **Full Stack Developer** apaixonado por tecnologia, com mais de 2.5 anos de experiência desenvolvendo aplicações web escaláveis, integrações de sistemas e soluções orientadas a dados. Atualmente trabalho como Full Stack Developer na Raiz Educação, Consultant & TOTVS Fluig Developer na Boa Digital e estou lançando minha própria consultoria. Estou aberto a novos projetos freelance e parcerias inovadoras!
+
+- 💡 Foco em entregar valor real para negócios
+- 🤝 Trabalho colaborativo e comunicação clara
+- 🚀 Sempre aprendendo e evoluindo
+
+## 🚀 Skills & Technologies
+
+**Front-End:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Back-End:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Flet](https://img.shields.io/badge/-Flet-009688?logo=flet&logoColor=white)
+
+**APIs & Integrações:**
+RESTful APIs, SOAP, AWS Lambda, AWS S3, SQL/NoSQL
+
+**Data & BI:**
+Power BI, Pandas, Matplotlib
+
+**Ferramentas:**
+Git & GitHub, VS Code, Docker, CI/CD
+
+**Metodologias:**
+Ágil (Scrum, Kanban), BPMN 2.0, FLUIG BPM, Zeev by Stoque
+
+## 💼 Principais Projetos
+
+### [ZeevSLA Blocker](https://github.com/Juevan/ZeevSLABlocker)
+Plugin inteligente para a plataforma Zeev que bloqueia novas solicitações quando existem SLAs estourados.
+
+### [Zeev Task Mover](https://github.com/Juevan/zeev-task-mover)
+Plugin para aprovar/rejeitar/encaminhar tarefas no Zeev em lote, construída com Preact e TypeScript.
+
+<!-- Adicione aqui outros projetos relevantes -->
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:antoniojuevan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajuevan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://juevan.github.io/Portifolio/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-24292F?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> 💬 **Vamos conversar?** Estou sempre aberto para networking, colaborações e novos desafios!
