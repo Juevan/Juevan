@@ -22,7 +22,7 @@
 ---
 
 ## 🔭 Sobre Mim
-Sou um **Full Stack Developer** movido por desafios e inovação, com mais de 2,5 anos de experiência criando aplicações web escaláveis, integrações inteligentes e soluções orientadas a dados. Atualmente atuo como Full Stack Developer na Raiz Educação e Consultant & TOTVS Fluig Developer na Boa Digital, onde entrego soluções que potencializam a eficiência operacional de grandes empresas. Apaixonado por automação de processos (BPMN) e integrações de sistemas, estou sempre em busca de novas oportunidades para colaborar em projetos freelance e parcerias inovadoras. Vamos transformar ideias em resultados juntos!
+Sou um **Full Stack Developer** movido por desafios e inovação, com mais de 2,5 anos de experiência criando aplicações web escaláveis, integrações inteligentes e soluções orientadas a dados. Profissional com experiência como Full Stack Developer na Raiz Educação e Consultant & TOTVS Fluig Developer na Boa Digital, onde entrego soluções que potencializam a eficiência operacional de grandes empresas. Apaixonado por automação de processos (BPMN) e integrações de sistemas, estou sempre em busca de novas oportunidades para colaborar em projetos freelance e parcerias inovadoras. Vamos transformar ideias em resultados juntos!
 
 - 💡 Foco em entregar valor real para negócios
 - 🤝 Trabalho colaborativo e comunicação clara
